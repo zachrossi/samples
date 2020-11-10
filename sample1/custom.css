@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+}
+.center-element{
+    padding-top: 11em;
+}
+.footer-padding{
+    padding-top: 7em;
+    padding-bottom: 3em;
+    text-align: center;
+}
+.footer-padding-index{
+    padding-top: 7em;
+    padding-bottom: 3em;
+    text-align: center;
+}
+.menu-container{
+    height: 100%;
+    padding-top: 3em;
+}
+.aboutus-container {
+    height: 100%;
+    padding-top: 7em;
+    padding-bottom: 5em;
+}
+.row-bg{
+    background-color: white;
+}
+.aboutus-row{
+    padding: 2em;
+}
