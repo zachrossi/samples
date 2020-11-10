@@ -1,0 +1,29 @@
+.origin-container {
+    padding: 3em;
+}
+.origin-img {
+    margin: auto;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+.co-container{
+    padding: 3em;
+}
+.row-des{
+    padding-top: 3em;
+}
+.center-img{
+    margin: auto;
+}
+.tp-row{
+    padding-top: 3em;
+}
